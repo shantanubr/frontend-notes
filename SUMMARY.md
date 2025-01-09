@@ -11,10 +11,6 @@
 * [Quickstart](computer-networks/quickstart.md)
 * [Publish your docs](computer-networks/publish-your-docs.md)
 
-## Internet and WWW
-
-* [Page 1](internet-and-www/page-1.md)
-
 ## HTML
 
 * [Page 1](html/page-1.md)
@@ -36,3 +32,11 @@
 ## Next
 
 * [Page 5](next/page-5.md)
+
+## System Design
+
+* [Page 3](system-design/page-3.md)
+
+## Quiz
+
+* [Page 4](quiz/page-4.md)
