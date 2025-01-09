@@ -1,17 +1,38 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Welcome To Frontend Notes](README.md)
 
-## Getting Started
+## DSA
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Untitled](dsa/untitled.md)
 
-## Basics
+## Computer Networks
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Quickstart](computer-networks/quickstart.md)
+* [Publish your docs](computer-networks/publish-your-docs.md)
+
+## Internet and WWW
+
+* [Page 1](internet-and-www/page-1.md)
+
+## HTML
+
+* [Page 1](html/page-1.md)
+
+## CSS
+
+* [Page 2](css/page-2.md)
+
+## Javascript
+
+* [JavaScript Coding](javascript/javascript-coding.md)
+* [JS Patterns](javascript/js-patterns.md)
+
+## React
+
+* [React Patterns](react/react-patterns.md)
+* [UI Coding](react/ui-coding.md)
+
+## Next
+
+* [Page 5](next/page-5.md)
