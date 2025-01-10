@@ -8,8 +8,7 @@
 
 ## Computer Networks
 
-* [Quickstart](computer-networks/quickstart.md)
-* [Publish your docs](computer-networks/publish-your-docs.md)
+* [Page 6](computer-networks/page-6.md)
 
 ## HTML
 
