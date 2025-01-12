@@ -66,24 +66,15 @@
 
 * [Page 2](css/page-2.md)
 
-## Javascript
-
-* [JavaScript Coding](javascript/javascript-coding.md)
-* [JS Patterns](javascript/js-patterns.md)
-
-## React
-
-* [React Patterns](react/react-patterns.md)
-* [UI Coding](react/ui-coding.md)
-
 ## Next
 
 * [Page 5](next/page-5.md)
 
-## System Design
+## Interview Prep
 
-* [Page 3](system-design/page-3.md)
-
-## Quiz
-
-* [Page 4](quiz/page-4.md)
+* [Algorithmic Coding](interview-prep/algorithmic-coding.md)
+* [JavaScript Coding](interview-prep/javascript-coding.md)
+* [User Interface Coding](interview-prep/user-interface-coding.md)
+* [Quiz / Trivia](interview-prep/quiz-trivia.md)
+* [System Design](interview-prep/system-design.md)
+* [Design Patterns](interview-prep/design-patterns.md)
