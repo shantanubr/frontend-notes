@@ -30,7 +30,7 @@
   * [Disjoint Set](problem-solving/dsa/disjoint-set.md)
 * [Neetcode 150](problem-solving/neetcode-150/README.md)
   * [Arrays & Hashing](problem-solving/neetcode-150/arrays-and-hashing.md)
-    * [1. Contains Duplicate](problem-solving/neetcode-150/arrays-and-hashing/1.-contains-duplicate.md)
+    * [Contains Duplicate](problem-solving/neetcode-150/arrays-and-hashing/contains-duplicate.md)
   * [Two Pointers](problem-solving/neetcode-150/two-pointers.md)
   * [Sliding Window](problem-solving/neetcode-150/sliding-window.md)
   * [Stack](problem-solving/neetcode-150/stack.md)
